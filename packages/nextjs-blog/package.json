@@ -1,5 +1,5 @@
 {
-  "name": "learn-starter",
+  "name": "naveen-blog",
   "version": "0.0.4",
   "private": false,
   "scripts": {
@@ -20,5 +20,5 @@
     "sass": "^1.39.2",
     "tailwindcss": "^2.2.15"
   },
-  "gitHead": "94c10d23de33980027f1b8a7c2376700e96ce859"
+  "gitHead": "cbc279322e4a7d7e866921fd72e8b9580c3ae8cc"
 }
