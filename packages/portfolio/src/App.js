@@ -17,7 +17,6 @@ function App() {
         >
           Learn React
         </a>
-        <p>By `~`</p>
       </header>
     </div>
   );
