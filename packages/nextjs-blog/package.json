@@ -19,5 +19,6 @@
     "remark-html": "^13.0.2",
     "sass": "^1.39.2",
     "tailwindcss": "^2.2.15"
-  }
+  },
+  "gitHead": "94c10d23de33980027f1b8a7c2376700e96ce859"
 }
