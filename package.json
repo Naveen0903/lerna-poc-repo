@@ -8,6 +8,6 @@
     "lerna": "4.0.0"
   },
   "dependencies": {
-    "naveen-portfolio": "0"
+    "naveen-portfolio": "^0.2.1"
   }
 }
